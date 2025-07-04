@@ -1,4 +1,4 @@
-# 🥗 CalorieLens
+<h1 align="center"> 🥗 CalorieLens </h1>
 
 ## 📖 Project Overview
 
